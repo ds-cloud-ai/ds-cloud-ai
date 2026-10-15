@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Takumi%20Shimizu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Kevin%20Wong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=ffffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B;I'm+Takumi+Shimizu!" alt="Takumi Shimizu" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=ffffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B;I'm+Kevin+Wong!" alt="Kevin Wong" /></a>
 </p>
 
 <h3 align="center">AI & Full Stack Engineer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Heaven-TS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ds-cloud-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
@@ -164,14 +164,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://github.com/NagyVikt"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heaven-TS&theme=tokyonight" alt="Profile Details" /></a>
+<a href="https://github.com/NagyVikt"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ds-cloud-ai&theme=tokyonight" alt="Profile Details" /></a>
 
-<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heaven-TS&theme=tokyonight" alt="Repos per Language" /></a>
-<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heaven-TS&theme=tokyonight" alt="Top Languages by Commit" /></a>
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ds-cloud-ai&theme=tokyonight" alt="Repos per Language" /></a>
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ds-cloud-ai&theme=tokyonight" alt="Top Languages by Commit" /></a>
 
-<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heaven-TS&theme=tokyonight&utcOffset=2" alt="Productive Time" /></a>
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ds-cloud-ai&theme=tokyonight&utcOffset=2" alt="Productive Time" /></a>
 
-<a href="https://streak-stats.demolab.com"><img height="180" src="https://streak-stats.demolab.com?user=Heaven-TS&theme=tokyonight&hide_border=true" alt="Contribution Streak" /></a>
+<a href="https://streak-stats.demolab.com"><img height="180" src="https://streak-stats.demolab.com?user=ds-cloud-ai&theme=tokyonight&hide_border=true" alt="Contribution Streak" /></a>
 
 </div>
 
