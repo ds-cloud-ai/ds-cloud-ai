@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Kevin%20Wong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=ffffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B;I'm+Kevin+Wong!" alt="Kevin Wong" /></a>
-</p>
-
-<h3 align="center">AI & Full Stack Engineer</h3>
+<h3 align="center">Full Stack + AI Developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ds-cloud-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 💻 About Me
 
-- 🧠 **AI & Full Stack Engineer** with 9+ years of experience building scalable production-ready web applications and AI- powered systems
+- 🧠 **Full Stack + AI Developer** with 9+ years of experience building scalable production-ready web applications and 3+ years of experience building AI powered systems
 - 🚀 Strong foundation in full-stack development (React/Next.js, Node.js, Python/Django), cloud services (AWS, Microsoft Azure, Google Cloud) and data-driven architectures (RAG, OCR, ETL pipelines)
 - 👯 Open to collaborating on **AI/LLM applications** and **innovative web development projects**
 - 🤔 As a business-oriented software engineer, my aim is to help startups and SMBs turn ideas into production solutions
@@ -65,6 +61,10 @@ Here are some ideas to get you started:
     <br>Next.js
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Vue" />
+    <br>Angular
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
     <br>Vue
   </td>
@@ -80,6 +80,10 @@ Here are some ideas to get you started:
     <br>Node.js
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Node.js" />
+    <br>Laravel
+  </td>
+  <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
     <br>Django
   </td>
@@ -87,7 +91,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
     <br>FastAPI
   </td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" /><br>GraphQL</td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
     <br>PostgreSQL
@@ -96,10 +104,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
-</tr>
-<tr>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" /><br>GraphQL</td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
     <br>Prisma
@@ -117,7 +121,7 @@ Here are some ideas to get you started:
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" /><br>Kubernetes</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" /><br>Nginx</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" /><br>GCP</td>
 </tr>
 <!-- <tr>
   <td align="center" width="96">
@@ -150,12 +154,12 @@ Here are some ideas to get you started:
 
 │
 
-09/2024 – 08/2025   AI | Full-Stack Engineer
+09/2024 – 08/2025   AI | Full-Stack Developer
 
 │
 ▼
 
-    NOW: AI & Full Stack Engineer 🚀
+    NOW: AI & Full Stack Developer 🚀
 ```
 
 </div>
